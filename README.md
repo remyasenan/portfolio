@@ -22,3 +22,14 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Markdown language
+
+> Wow this is amazing
+
+```ruby
+def my_new_function
+	puts "Hello There"
+end
+```
+	
